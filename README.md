@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm sambhu18!
+# 👋 Hello, I'm Sambhu Kamti!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;9%2B+repositories+and+counting...;0+stars+earned+so+far!;Always+learning%2C+always+coding!" alt="Typing SVG" />
 
@@ -56,7 +56,7 @@
 
 🌐 **Website:** Not specified
 
-✉️ **Public Email:** Not public
+✉️ **Public Email:** kamatisambhu7@gmail.com
 
 </td>
 <td valign="top" width="50%">
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhu18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamatisambhu7@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhu18)
 [![Profile Views](https://komarev.com/ghpvc/?username=sambhu18&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sambhu18)
 
 </div>
