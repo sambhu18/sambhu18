@@ -38,7 +38,7 @@
 | **🏗️ Total Repositories** | `10` | **⭐ Total Stars** | `0` |
 | **📚 Original Repos** | `7` | **🍴 Total Forks** | `0` |
 | **🔄 Forked Repos** | `3` | **👥 Followers** | `1` |
-| **📦 Repository Size** | `28.6 MB` | **🏆 Most Starred** | `sambhu18 (0 ⭐)` |
+| **📦 Repository Size** | `28.8 MB` | **🏆 Most Starred** | `HCAI5DS02_SambhuKamti (0 ⭐)` |
 
 </div>
 
