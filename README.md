@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Sambhu Kamti!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;10%2B+repositories+and+counting...;0+stars+earned+so+far!;Always+learning%2C+always+coding!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;11%2B+repositories+and+counting...;0+stars+earned+so+far!;Always+learning%2C+always+coding!" alt="Typing SVG" />
 
 </div>
 
@@ -35,10 +35,10 @@
 
 | 📈 **Metric** | 🔢 **Value** | 📈 **Metric** | 🔢 **Value** |
 |:---:|:---:|:---:|:---:|
-| **🏗️ Total Repositories** | `10` | **⭐ Total Stars** | `0` |
+| **🏗️ Total Repositories** | `11` | **⭐ Total Stars** | `0` |
 | **📚 Original Repos** | `7` | **🍴 Total Forks** | `0` |
-| **🔄 Forked Repos** | `3` | **👥 Followers** | `1` |
-| **📦 Repository Size** | `28.8 MB` | **🏆 Most Starred** | `sambhu18 (0 ⭐)` |
+| **🔄 Forked Repos** | `4` | **👥 Followers** | `1` |
+| **📦 Repository Size** | `29.0 MB` | **🏆 Most Starred** | `EquiSports (0 ⭐)` |
 
 </div>
 
