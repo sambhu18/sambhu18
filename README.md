@@ -36,7 +36,7 @@
 | 📈 **Metric** | 🔢 **Value** | 📈 **Metric** | 🔢 **Value** |
 |:---:|:---:|:---:|:---:|
 | **🏗️ Total Repositories** | `11` | **⭐ Total Stars** | `0` |
-| **📚 Original Repos** | `8` | **🍴 Total Forks** | `1` |
+| **📚 Original Repos** | `8` | **🍴 Total Forks** | `0` |
 | **🔄 Forked Repos** | `3` | **👥 Followers** | `1` |
 | **📦 Repository Size** | `29.0 MB` | **🏆 Most Starred** | `sambhu18 (0 ⭐)` |
 
