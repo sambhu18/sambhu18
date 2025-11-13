@@ -38,7 +38,7 @@
 | **🏗️ Total Repositories** | `12` | **⭐ Total Stars** | `0` |
 | **📚 Original Repos** | `9` | **🍴 Total Forks** | `0` |
 | **🔄 Forked Repos** | `3` | **👥 Followers** | `1` |
-| **📦 Repository Size** | `29.0 MB` | **🏆 Most Starred** | `sambhu18 (0 ⭐)` |
+| **📦 Repository Size** | `29.0 MB` | **🏆 Most Starred** | `KhelBazaar (0 ⭐)` |
 
 </div>
 
