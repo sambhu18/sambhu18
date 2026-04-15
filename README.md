@@ -38,7 +38,7 @@
 | **🏗️ Total Repositories** | `15` | **⭐ Total Stars** | `0` |
 | **📚 Original Repos** | `12` | **🍴 Total Forks** | `0` |
 | **🔄 Forked Repos** | `3` | **👥 Followers** | `1` |
-| **📦 Repository Size** | `37.4 MB` | **🏆 Most Starred** | `sambhu18 (0 ⭐)` |
+| **📦 Repository Size** | `39.6 MB` | **🏆 Most Starred** | `6CS012-AI-and-Machine-Learning (0 ⭐)` |
 
 </div>
 
